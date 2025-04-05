@@ -1,0 +1,1 @@
+import{a,b}from"./chunk-YDUG36ZF.js";import"./chunk-OB4R7C5T.js";import"./chunk-FO4ZHIB5.js";import"./chunk-5SLLER2Z.js";import"./chunk-PJTN5MCN.js";import"./chunk-SO6VPFYA.js";b();export{a as spritesVertexShaderWGSL};

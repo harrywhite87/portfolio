@@ -1,0 +1,1 @@
+import{a as r,b as a}from"./chunk-PJTN5MCN.js";import{d as e}from"./chunk-SO6VPFYA.js";var n,o,t=e(()=>{"use strict";a();n="kernelBlurVaryingDeclaration",o="varying sampleCoord{X}: vec2f;";r.IncludesShadersStoreWGSL[n]=o});export{t as a};

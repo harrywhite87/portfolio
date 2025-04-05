@@ -1,0 +1,1 @@
+import{m as a,n as b}from"./chunk-PN52PH4W.js";import"./chunk-XAFYO27J.js";import"./chunk-MME3KDWL.js";import"./chunk-BKKMM5NX.js";import"./chunk-BE7GIU5G.js";import"./chunk-QY4EALXS.js";import"./chunk-GDJFI7EY.js";import"./chunk-PJTN5MCN.js";import"./chunk-SO6VPFYA.js";b();export{a as _KTXTextureLoader};

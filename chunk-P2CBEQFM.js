@@ -1,0 +1,2 @@
+import{a as e,b as t}from"./chunk-PJTN5MCN.js";import{d as o}from"./chunk-SO6VPFYA.js";var r,a,i,l=o(()=>{t();r="taaPixelShader",a=`varying vec2 vUV;uniform sampler2D textureSampler;uniform sampler2D historySampler;uniform float factor;void main() {vec4 c=texelFetch(textureSampler,ivec2(gl_FragCoord.xy),0);vec4 h=texelFetch(historySampler,ivec2(gl_FragCoord.xy),0);gl_FragColor=mix(h,c,factor);}
+`;e.ShadersStore[r]=a;i={name:r,shader:a}});export{i as a,l as b};
