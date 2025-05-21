@@ -1,0 +1,1 @@
+import{a,b}from"./chunk-IWGJ4DN5.js";import"./chunk-AS5SFZST.js";import"./chunk-BOMKHDQX.js";import"./chunk-T7DHRQ66.js";import"./chunk-QKJPKFVP.js";import"./chunk-GF4NH2MX.js";import"./chunk-UNHO7PZR.js";import"./chunk-SS6WXUSY.js";import"./chunk-4ZZIO3ZI.js";b();export{a as particlesVertexShaderWGSL};

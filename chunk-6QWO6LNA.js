@@ -1,0 +1,1 @@
+import{a as e}from"./chunk-NEHUFPFK.js";import{a as r}from"./chunk-QRUHQ7GO.js";import"./chunk-4ZZIO3ZI.js";var o=class extends r{decodeBlock(t){return e(new Uint8Array(t)).buffer}};export{o as default};

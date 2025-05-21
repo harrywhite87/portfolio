@@ -1,0 +1,1 @@
+import{Ua as n,hb as i,ib as o,tb as a}from"./chunk-QEPONN4T.js";import"./chunk-4ZZIO3ZI.js";var p=(()=>{class e{static{this.\u0275fac=function(t){return new(t||e)}}static{this.\u0275cmp=n({type:e,selectors:[["figma"]],decls:2,vars:0,template:function(t,c){t&1&&(i(0,"h1"),a(1,"Figma"),o())},encapsulation:2,changeDetection:0})}}return e})();export{p as FigmaComponent};

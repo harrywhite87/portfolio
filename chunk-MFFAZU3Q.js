@@ -1,0 +1,3 @@
+import{a as n}from"./chunk-E72UFCPK.js";import{a as o,b as f}from"./chunk-SS6WXUSY.js";import{d as e}from"./chunk-4ZZIO3ZI.js";var r,i,c=e(()=>{"use strict";f();n();r="backgroundUboDeclaration",i=`uniform vPrimaryColor: vec4f;uniform vPrimaryColorShadow: vec4f;uniform vDiffuseInfos: vec2f;uniform vReflectionInfos: vec2f;uniform diffuseMatrix: mat4x4f;uniform reflectionMatrix: mat4x4f;uniform vReflectionMicrosurfaceInfos: vec3f;uniform fFovMultiplier: f32;uniform pointSize: f32;uniform shadowLevel: f32;uniform alpha: f32;uniform vBackgroundCenter: vec3f;uniform vReflectionControl: vec4f;uniform projectedGroundInfos: vec2f;
+#include<sceneUboDeclaration>
+`;o.IncludesShadersStoreWGSL[r]||(o.IncludesShadersStoreWGSL[r]=i)});export{c as a};

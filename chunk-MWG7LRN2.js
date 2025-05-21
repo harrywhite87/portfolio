@@ -1,0 +1,1 @@
+import{Ua as n,hb as o,ib as i,tb as a}from"./chunk-QEPONN4T.js";import"./chunk-4ZZIO3ZI.js";var p=(()=>{class e{static{this.\u0275fac=function(t){return new(t||e)}}static{this.\u0275cmp=n({type:e,selectors:[["sheet"]],decls:2,vars:0,template:function(t,r){t&1&&(o(0,"h1"),a(1,"Sheet"),i())},encapsulation:2,changeDetection:0})}}return e})();export{p as SheetComponent};

@@ -1,0 +1,1 @@
+import{a as e,b as o}from"./chunk-SS6WXUSY.js";import{d as t}from"./chunk-4ZZIO3ZI.js";var r,a,d,v=t(()=>{o();r="meshUVSpaceRendererMaskerVertexShader",a="attribute vec2 uv;varying vec2 vUV;void main(void) {gl_Position=vec4(vec2(uv.x,uv.y)*2.0-1.0,0.,1.0);vUV=uv;}";e.ShadersStore[r]||(e.ShadersStore[r]=a);d={name:r,shader:a}});export{d as a,v as b};

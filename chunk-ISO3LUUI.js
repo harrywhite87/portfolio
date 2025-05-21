@@ -1,0 +1,1 @@
+import{d as o}from"./chunk-4ZZIO3ZI.js";function i(e,t=!1){if(!(t&&r[e]))return r[e]=!0,`${e} needs to be imported before as it contains a side-effect required by your code.`}var r,n=o(()=>{"use strict";r={}});export{i as a,n as b};
